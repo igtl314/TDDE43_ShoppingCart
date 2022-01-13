@@ -58,6 +58,7 @@ public class ShoppingCartAdapter extends BaseAdapter {
                     tempint--;
                     map.put(cartItems.get(position), tempint);
                 }
+                    notifyDataSetChanged();
 
 
             }
