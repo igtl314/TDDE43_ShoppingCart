@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cartButton" type="id"></item>
+    <item name="clickedItem" type="id"></item>
+    <item name="itemsInBag" type="id"></item>
+
+
+
+</resources>
